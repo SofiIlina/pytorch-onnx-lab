@@ -1,0 +1,5 @@
+torch==2.8.0+cu126
+torchvision==0.17.1+cu126
+onnx==1.16.0
+onnxruntime-gpu==1.17.0
+tqdm==4.66.1
